@@ -18,3 +18,5 @@ This notebook implements a mathematical framework for measuring consciousness fr
  - **Neuroscientists** analysing EEG or electrophysiological recordings
  - **Students** learning computational approaches to consciousness measurement
  - **Data scientists** interested in advanced brain signal analysis
+
+More details can be found in the paper:  https://arxiv.org/abs/2512.10972
