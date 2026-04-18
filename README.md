@@ -23,4 +23,5 @@ This notebook implements a mathematical framework for measuring consciousness fr
  - **Students** learning computational approaches to consciousness measurement
  - **Data scientists** interested in advanced brain signal analysis
 
+Cite: H. Ugail and N. Howard, “Quantifying the dynamics of consciousness using hierarchical integration, organised complexity and metastability,” arXiv preprint arXiv:2512.10972, Dec. 2025.
 More details can be found in the paper:  https://arxiv.org/abs/2512.10972
