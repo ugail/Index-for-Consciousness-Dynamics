@@ -25,3 +25,7 @@ This notebook implements a mathematical framework for measuring consciousness fr
 
 Cite: H. Ugail and N. Howard, “Quantifying the dynamics of consciousness using hierarchical integration, organised complexity and metastability,” arXiv preprint arXiv:2512.10972, Dec. 2025.
 More details can be found in the paper:  https://arxiv.org/abs/2512.10972
+
+## License
+
+The code in this repository is released under the MIT License.  
