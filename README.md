@@ -10,7 +10,7 @@ This notebook implements a mathematical framework for measuring consciousness fr
 ## What does this measure?
 
 Ψ captures consciousness through three key dimensions:
-  1. **Hierarchical Integration (H_eff)** - How brain rhythms are organised across timescales
+  1. **Hierarchical Temporal Integration (H_eff)** - How brain rhythms are organised across timescales
   2. **Organized Complexity (D)** - Phase-amplitude coupling and information richness  
   3. **Metastability (M)** - The brain's dynamic flexibility while maintaining coherence
 
