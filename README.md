@@ -3,6 +3,10 @@
 
 This notebook implements a mathematical framework for measuring consciousness from brain signals (EEG). It combines three fundamental aspects of neural dynamics into a single metric (Ψ) that quantifies the "quality" of consciousness.
 
+<img width="1453" height="637" alt="image" src="https://github.com/user-attachments/assets/445e724b-247d-4fc1-9de5-e1f2f96f6bc9" />
+
+
+
 ## What does this measure?
 
 Ψ captures consciousness through three key dimensions:
