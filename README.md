@@ -18,9 +18,9 @@ This notebook implements a mathematical framework for measuring consciousness fr
 **Lower Ψ scores** suggest reduced consciousness (deep sleep, anaesthesia, disorders)
 
 ## Contents (Notebooks):
-**Ugail-Howard-Consciousness-Index.ipynb (The mathematical framework)
-**Ugail-Howard-Conciousness-Index_State_Simulator.ipynb (physiologically motivated simulator for nine canonical conscious states)
-**Ugail-Howard-Conciousness-Index_Validation.ipynb (full Monte Carlo, ablation, sensitivity, and Sleep-EDF empirical validation pipeline).
+- **Ugail-Howard-Consciousness-Index.ipynb** - (The mathematical framework)
+- **Ugail-Howard-Conciousness-Index_State_Simulator.ipynb** - (physiologically motivated simulator for nine canonical conscious states)
+- **Ugail-Howard-Conciousness-Index_Validation.ipynb** - (full Monte Carlo, ablation, sensitivity, and Sleep-EDF empirical validation pipeline).
 
 
 ## Who is this for?
